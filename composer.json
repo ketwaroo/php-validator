@@ -1,0 +1,19 @@
+{
+    "name": "ketwaroo/php-validator",
+    "version": "0.1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaasir Ketwaroo",
+            "email": "ketwaroo.yaasir@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Ketwaroo\\Validator": "src/"
+        }
+    },
+    "require-dev": {
+        "ketwaroo/debug-helper": "dev-master"
+    }
+}
